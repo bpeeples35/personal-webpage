@@ -24,9 +24,8 @@ h2 {
 }
 
 img {
-  display: block;
-  margin-bottom: 10px;
-  border-radius: 50%;
+  border-radius: 10px;
+  width: 150px;
 }
 
 a {
